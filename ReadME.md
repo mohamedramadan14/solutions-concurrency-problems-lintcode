@@ -65,5 +65,3 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 We hope you find these concurrency problem solutions helpful and informative. If you have any questions or suggestions, please feel free to reach out. Happy coding!
 
 ---
-
-Check out the [GitHub repository](https://github.com/your-username/repo-name) for this project.
